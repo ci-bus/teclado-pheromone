@@ -1,4 +1,4 @@
-# pheromone
+# Teclado Pheromone
 QMK proyecto compatible con Miguelio VIA y configuración dinámica de fader y encoder
 
 [Link al proyecto origen](https://github.com/luantty2/pheromone_keyboard)
