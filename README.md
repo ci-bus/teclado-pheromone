@@ -27,8 +27,8 @@ Las acciones de ratón están habilitadas por lo que una acción podría ser hac
 
 Las acciones del encoder también son configurables y estas son por cada capa, por defecto cuando se habilita VIA se cuenta con 4 capas distintas.
 
-Para configurarlo basta con flashear el .hex de la carpeta QMK/compilado de este repositorio y haciendo uso de [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases)
+Para configurarlo basta con flashear el .hex de la carpeta QMK/compilado de este repositorio, para esto puedes hacer uso de [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases)
 
-Después de eso con [Miguelio VIA](https://github.com/ci-bus/Miguelio-VIA-Keyboards/releases) podrás personalizarlo son programar.
+Después de eso con [Miguelio VIA](https://github.com/ci-bus/Miguelio-VIA-Keyboards/releases) podrás personalizarlo sin programar.
 
-NOTA: Tanvién puedes usar el VIA original pero necesitas cargar el archivo json para que te lo detecte y no podrás cambiar las acciones del slider ni del encoder.
+NOTA: Tanbién puedes usar el VIA original pero necesitas cargar el archivo json para que te lo detecte y no podrás cambiar las acciones del slider ni del encoder.
