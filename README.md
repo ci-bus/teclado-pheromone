@@ -3,7 +3,7 @@ QMK proyecto compatible con Miguelio VIA y configuración dinámica de fader y e
 
 [Link al proyecto origen](https://github.com/luantty2/pheromone_keyboard)
 
-En la comunidad de keebary hemos unido fuerzas para fabricado 15 de estos teclados, si eres apasionado a los teclados mecánicos te invito al [Discord](https://discord.gg/d9GmPy8) 
+En la comunidad de keebary hemos unido fuerzas para fabricado 15 de estos teclados, si eres apasionado a los teclados mecánicos te invito al [Discord](https://discord.gg/d9GmPy8), ahí compartimos conocimientos y realizamos proyectos como este.
 
 El teclado Pheromone está muy enfocado a creadores, con el slider se pueden controlar programas de edición de imágenea, video y música, pero no todos vamos a darle ese uso, otros queremos un teclado particular y que podamos configurarlo a nuestro gusto.
 
