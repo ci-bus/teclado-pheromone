@@ -31,4 +31,4 @@ Para configurarlo basta con flashear el .hex de la carpeta QMK/compilado de este
 
 Después de eso con [Miguelio VIA](https://github.com/ci-bus/Miguelio-VIA-Keyboards/releases) podrás personalizarlo sin programar.
 
-NOTA: Tanbién puedes usar el VIA original pero necesitas cargar el archivo json para que te lo detecte y no podrás cambiar las acciones del slider ni del encoder.
+NOTA: Tanbién puedes usar el VIA original pero necesitas cargar el archivo json para que te lo detecte, no podrás cambiar las acciones del slider ni del encoder y el idioma está limitado al Inglés.
