@@ -271,7 +271,7 @@ void matrix_scan_user(void) {
 #ifdef ENCODERS_ENABLE
 bool encoder_update_user(uint8_t index, bool clockwise) {
     if (index == 0) {
-        if (!clockwise) {
+        if (clockwise) {
             enc_tempKey = dynamic_keymap_get_keycode(biton32(layer_state), 1, 1);
         } else {
             enc_tempKey = dynamic_keymap_get_keycode(biton32(layer_state), 2, 1);
